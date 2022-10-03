@@ -1,0 +1,1 @@
+python .\main.py $env:USERPROFILE\.oanda-config.json C:\data\oanda XAU_USD
